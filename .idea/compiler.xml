@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Contacts-task_main" target="11" />
+      <module name="Contacts-task_test" target="11" />
+      <module name="Problems-Concat_positive_numbers_main" target="11" />
+      <module name="Problems-Concat_positive_numbers_test" target="11" />
+      <module name="Problems-Creating_list_main" target="11" />
+      <module name="Problems-Creating_list_test" target="11" />
+      <module name="Problems-Find_the_nearest_number_main" target="11" />
+      <module name="Problems-Find_the_nearest_number_test" target="11" />
+      <module name="Problems-Output_the_list's_elements_main" target="11" />
+      <module name="Problems-Output_the_list's_elements_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
